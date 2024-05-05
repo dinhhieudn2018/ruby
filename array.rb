@@ -9,3 +9,6 @@ puts "#{digits}"
 
 nums = Array.[](1, 2, 3, 4,5)
 puts "#{nums}"
+
+arr = ["Phat", "Nguyen", "Viet", "Anh"]
+puts "#{arr[1]}"
